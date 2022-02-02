@@ -63,6 +63,6 @@ button:hover {
     color: black; 
 }
 
-/* img:last-of-type {
+* img:last-of-type {
     border: 2px dotted green;
-} */
+} 
